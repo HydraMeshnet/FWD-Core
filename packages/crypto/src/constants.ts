@@ -1,2 +1,2 @@
-export const SATOSHI = 1e8;
+export const SATOSHI = 1e2;
 export const ARKTOSHI: number = SATOSHI;
